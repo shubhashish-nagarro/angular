@@ -43,4 +43,4 @@ __screenshots__/
 Thumbs.db
 
 # Configuration File
-src\assets\json\environment.json
+src/assets/json/environment.json
